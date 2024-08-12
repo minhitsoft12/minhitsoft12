@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./asset/banner.png" />
+<img src="./asset/banner.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Minh Pham</h1>
 <h3 align="center">A Full-stack developer from Vietnam</h3>
