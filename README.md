@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Pham</h1>
 <h3 align="center">A Full-stack developer from Vietnam</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=minhitsoft12&label=Profile%20views&color=0e75b6&style=flat" alt="minhitsoft12" /> <img src="https://badges.pufler.dev/commits/monthly/ptduy14" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=minhitsoft12&label=Profile%20views&color=0e75b6&style=flat" alt="minhitsoft12" /> <img src="https://badges.pufler.dev/commits/monthly/minhitsoft12" /></p>
 
 - 💬 Ask me about **NextJS, React, Vue, Laravel**
 
@@ -32,4 +32,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhitsoft12&show_icons=true&locale=en&layout=compact" alt="minhitsoft12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhitsoft12&show_icons=true&locale=en" alt="minhitsoft12" /></p>
